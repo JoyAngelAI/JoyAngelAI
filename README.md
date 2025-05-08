@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Joy Angel 👋
 
-<!--
-**JoyAngelAI/JoyAngelAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+💡 Passionate about Technology, AI, and Data Science  
+🎓 Completed Python Fundamentals & Linux Server Administration courses
+🔍 Exploring Data Science, Machine Learning, and AI  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies  
+- Programming: Python, Bash  
+- Linux Administration: Server Management, Automation  
+- Data Science: Pandas, NumPy (learning)  
+- Machine Learning: Scikit-Learn, TensorFlow (learning)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects  
+🔗 [Python ATM Simulator](#) – A simple banking system simulation  
+🔗 [Linux Automation Scripts](#) – Managing servers efficiently (coming soon)  
+🔗 [Machine Learning Projects](#) – Exploring AI models (coming soon)  
+
+## 🌍 Connect With Me  
+[LinkedIn](www.linkedin.com/in/joy-angel-tech2025) | [GitHub](https://github.com/JoyAngelAI)  
+
