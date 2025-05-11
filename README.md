@@ -12,7 +12,7 @@
 - Machine Learning: Scikit-Learn, TensorFlow (learning)  
 
 ## 📂 Featured Projects  
-🔗 [Python ATM Simulator](#) – A simple banking system simulation  
+🔗 [Python ATM Simulator](https://github.com/joyangelai/ATM_Simulator) – A simple banking system simulation  
 🔗 [Linux Automation Scripts](#) – Managing servers efficiently (coming soon)  
 🔗 [Machine Learning Projects](#) – Exploring AI models (coming soon)  
 
